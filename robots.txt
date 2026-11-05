@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cavin.cardtaiwan.com/sitemap.xml
